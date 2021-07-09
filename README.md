@@ -1,6 +1,6 @@
-# Flax-Dashboard-Satellite
+# Chaingreen-Dashboard-Satellite
 
-(modified version of Chia-Dashboard-Satellite to Support the Flax Fork.)
+(modified version of Chia-Dashboard-Satellite to Support the Chaingreen Fork.)
 
 ## Prerequisites
 
@@ -13,16 +13,16 @@ Check out the [Docs](https://docs.foxypool.io/chia-dashboard-satellite/).
 ## Setup
 
 ```bash
-npm i -g flax-dashboard-satellite
-flax-dashboard-satellite
+npm i -g chaingreen-dashboard-satellite
+chaingreen-dashboard-satellite
 ```
 
 ## Updating the satellite
 
 ```bash
-npm update -g flax-dashboard-satellite
+npm update -g chaingreen-dashboard-satellite
 ```
 
 ## License
 
-GNU GPLv3 (see [LICENSE](https://github.com/thauch/flax-dashboard-satellite/blob/master/LICENSE))
+GNU GPLv3 (see [LICENSE](https://github.com/thauch/chaingreen-dashboard-satellite/blob/master/LICENSE))

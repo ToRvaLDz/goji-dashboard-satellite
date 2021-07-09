@@ -6,7 +6,7 @@ const archiver = require('archiver');
 
 const version = require('../lib/version');
 
-const name = 'flax-dashboard-satellite';
+const name = 'chaingreen-dashboard-satellite';
 
 (async () => {
   const buildPath = join(__dirname, '..', 'build');
