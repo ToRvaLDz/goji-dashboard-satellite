@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bignumber.js": "^9.0.1",
-    "goji-api": "git+https://github.com:ToRvaLDz/chia-dashboard-api.git#8ea8771c67c19962e2f76af2d3554e5f45e4894e",
+    "goji-api": "git+https://github.com:ToRvaLDz/goji-dashboard-api.git",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
