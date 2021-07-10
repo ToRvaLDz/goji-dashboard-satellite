@@ -1,6 +1,6 @@
-# Chaingreen-Dashboard-Satellite
+# Goji-Dashboard-Satellite
 
-(modified version of Chia-Dashboard-Satellite to Support the Chaingreen Fork.)
+(modified version of Chia-Dashboard-Satellite to Support the Goji Fork.)
 
 ## Prerequisites
 
@@ -13,16 +13,16 @@ Check out the [Docs](https://docs.foxypool.io/chia-dashboard-satellite/).
 ## Setup
 
 ```bash
-npm i -g chaingreen-dashboard-satellite
-chaingreen-dashboard-satellite
+npm i -g goji-dashboard-satellite
+goji-dashboard-satellite
 ```
 
 ## Updating the satellite
 
 ```bash
-npm update -g chaingreen-dashboard-satellite
+npm update -g goji-dashboard-satellite
 ```
 
 ## License
 
-GNU GPLv3 (see [LICENSE](https://github.com/thauch/chaingreen-dashboard-satellite/blob/master/LICENSE))
+GNU GPLv3 (see [LICENSE](https://github.com/thauch/goji-dashboard-satellite/blob/master/LICENSE))
